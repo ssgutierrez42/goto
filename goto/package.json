@@ -7,6 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "OpenFaaS Ltd",
+  "author": "santi@cell-ed.com",
   "license": "MIT"
 }
