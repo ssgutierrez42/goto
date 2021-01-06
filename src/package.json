@@ -1,0 +1,21 @@
+{
+  "name": "@celled/service.activity.tracking",
+  "version": "0.1.0",
+  "description": "Activity Tracking",
+  "main": "handler.js",
+  "keywords": [],
+  "author": "santi@cell-ed.com",
+  "license": "MIT",
+  "dependencies": {
+    "@celled/models.activity.daily": "^0.9.1",
+    "@celled/models.activity.granular": "^0.9.1",
+    "@celled/models.activity.walk": "^0.9.1",
+    "@celled/models.activity.weekly": "^0.9.1",
+    "@celled/models.learner": "^0.9.1",
+    "bluebird": "^3.7.2",
+    "lodash": "^4.17.20",
+    "luxon": "^1.25.0",
+    "moment": "^2.29.1",
+    "winston": "^3.3.3"
+  }
+}
